@@ -365,8 +365,8 @@ importers:
         specifier: 1.13.8
         version: 1.13.8
       undici:
-        specifier: ^8.10.2
-        version: 8.10.2
+        specifier: ^8.11.0
+        version: 8.11.0
       wtfnode:
         specifier: ^0.10.1
         version: 0.10.1
@@ -5553,10 +5553,6 @@ packages:
   undici@7.28.0:
     resolution: {integrity: sha512-cRZYrTDwWznlnRiPjggAGxZXanty6M8RV1ff8Wm4LWXBp7/IG8v5DnOm74DtUBp9OONpK75YlPnIjQqX0dBDtA==}
     engines: {node: '>=20.18.1'}
-
-  undici@8.10.2:
-    resolution: {integrity: sha512-/y4/bH9YNU5hi9NIrpOuvGXFcxrj3CMrV+/AYpowAYTpHn8gX/XPFjNy766FPoYY0miQhdW977JFWKGNhBdwyQ==}
-    engines: {node: '>=22.19.0'}
 
   undici@8.11.0:
     resolution: {integrity: sha512-AdzuGcAkzhbha3GgCSoUBx2P0quwym6qdFNCQz/fDGZc8w9XJ741wHUbt2kTmfPz+ZIOMkySFkiY7RXmiDDC8w==}
@@ -11319,8 +11315,6 @@ snapshots:
   undici-types@8.9.0: {}
 
   undici@7.28.0: {}
-
-  undici@8.10.2: {}
 
   undici@8.11.0: {}
 
