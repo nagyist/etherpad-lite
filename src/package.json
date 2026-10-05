@@ -110,7 +110,7 @@
     "@types/jsonwebtoken": "^9.0.10",
     "@types/mime-types": "^3.0.1",
     "@types/mocha": "^10.0.9",
-    "@types/node": "^26.6.3",
+    "@types/node": "^26.6.4",
     "@types/nodemailer": "^8.0.2",
     "@types/oidc-provider": "^9.12.1",
     "@types/pdfkit": "^0.17.6",
@@ -130,7 +130,7 @@
     "set-cookie-parser": "^3.1.2",
     "sinon": "^22.1.0",
     "split-grid": "^1.0.11",
-    "supertest": "^7.3.0",
+    "supertest": "^7.3.1",
     "typescript": "^7.0.2",
     "vitest": "^5.0.3"
   },
